@@ -1,4 +1,4 @@
-# MovieRecommendationSystem
+# Movie Recommender System
 This is a machine learning project in python, aimed at creating a basic recommendation system for movies
 
 We use *model-based collaborative filtering* to figure out the moive recommendations from the data set.
