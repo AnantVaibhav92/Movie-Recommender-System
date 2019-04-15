@@ -14,7 +14,7 @@ We create two types of systems:
 
 **Dependencies:**
   numpy
-  pandad
+  pandas
   sklearn
   sklearn.decomposition.TruncatedSVD
 
