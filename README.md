@@ -1,7 +1,7 @@
 # Movie Recommender System
 This is a machine learning project in python, aimed at creating a basic recommendation system for movies
 
-We use *model-based collaborative filtering* to figure out the moive recommendations from the data set.
+We use **model-based collaborative filtering** to figure out the moive recommendations from the data set.
 Data set: https://grouplens.org/datasets/movielens/100k/
 
 We use the user data (u.data) and Movie data (u.item), with common key on movie id (item_id).
